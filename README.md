@@ -1,2 +1,3 @@
-# babel_webpack
-Basic Babel &amp; Webpack setup for 2019
+# What is it?
+
+A preconfigured Babel & Webpack (+ React) project as a baseline for when create-react-app isn't the right approach
